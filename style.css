@@ -7,7 +7,7 @@ body{
 header{
     display: flex;
     background-color: rgb(182, 225, 253);
-    height: 180px;
+    height: 130px;
     width: 100%;
 }
 
@@ -24,8 +24,8 @@ header{
 }
 
 .imglogo img{
-    height: 250px;
-    width: 250px;
+    height: 200px;
+    width: 200px;
 }
 
 .containerlink{
